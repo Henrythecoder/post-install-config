@@ -20,7 +20,7 @@ This tutorial outlines the how to configure osTicket and go over a few terms we 
 
 Now that we have installed osTicket and accessed the admin panel, let’s configure it.
 
-If you haven't installed osTicket yet, please refer to my [osTicket installation lab](https://github.com/AustinmJoseph/ostiket-prereqs).
+
 
 1. Log into the Admin Panel
 Log in with your admin account first. Once logged in, click on the Admin Panel. You will notice many additional options appear.
